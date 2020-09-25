@@ -1,0 +1,35 @@
+#!/bin/ksh
+#@ class = general
+#@ network.MPI = sn_all,not_shared,us
+#@ notification = never
+#@ notify_user = weidendo@lrz.de 
+#@ job_name = JOB
+#@ error = $(job_name).$(stepid).err
+#@ output = $(job_name).$(stepid).out
+#@ job_type = parallel
+#@ wall_clock_limit = 00:29:00
+#@ node = 128
+#@ tasks_per_node=28
+#@ queue
+
+. /etc//profile
+. /etc/profile.d/modules.sh
+#module unload mpi.ibm
+#module load mpi.intel
+module list
+env >ENV
+
+set -xv
+cd /home/hpc/pr28fa/a283206/bench/low_level/rinf
+
+mpiexec CPUFREQ 2600000
+
+cat >rinf1.conf <<EOD
+# number veclengths,  time per test
+      100     2.
+# icase, stride, dyn.allocation, avg.performance
+      2      1  .true.  'L' 
+EOD
+
+OMP_NUM_THREADS=1
+MP_TASK_AFFINITY=CORE:$OMP_NUM_THREADS mpiexec rinf1.medium.exe
