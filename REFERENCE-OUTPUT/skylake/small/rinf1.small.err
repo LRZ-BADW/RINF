@@ -1,0 +1,487 @@
+MPI startup(): shm:tmi fabric is unknown or has been removed from the product, please use ofi or shm:ofi instead
+[0] MPI startup(): libfabric version: 1.7.0a1-impi
+[0] MPI startup(): libfabric provider: psm2
+[0] MPI startup(): Rank    Pid      Node name                Pin cpu
+[0] MPI startup(): 0       111347   i08r01c01s01.sng.lrz.de  0
+[0] MPI startup(): 1       111348   i08r01c01s01.sng.lrz.de  1
+[0] MPI startup(): 2       111349   i08r01c01s01.sng.lrz.de  2
+[0] MPI startup(): 3       111350   i08r01c01s01.sng.lrz.de  3
+[0] MPI startup(): 4       111351   i08r01c01s01.sng.lrz.de  4
+[0] MPI startup(): 5       111352   i08r01c01s01.sng.lrz.de  5
+[0] MPI startup(): 6       111353   i08r01c01s01.sng.lrz.de  6
+[0] MPI startup(): 7       111354   i08r01c01s01.sng.lrz.de  7
+[0] MPI startup(): 8       111355   i08r01c01s01.sng.lrz.de  8
+[0] MPI startup(): 9       111356   i08r01c01s01.sng.lrz.de  9
+[0] MPI startup(): 10      111357   i08r01c01s01.sng.lrz.de  10
+[0] MPI startup(): 11      111358   i08r01c01s01.sng.lrz.de  11
+[0] MPI startup(): 12      111359   i08r01c01s01.sng.lrz.de  12
+[0] MPI startup(): 13      111360   i08r01c01s01.sng.lrz.de  13
+[0] MPI startup(): 14      111361   i08r01c01s01.sng.lrz.de  14
+[0] MPI startup(): 15      111362   i08r01c01s01.sng.lrz.de  15
+[0] MPI startup(): 16      111363   i08r01c01s01.sng.lrz.de  16
+[0] MPI startup(): 17      111364   i08r01c01s01.sng.lrz.de  17
+[0] MPI startup(): 18      111365   i08r01c01s01.sng.lrz.de  18
+[0] MPI startup(): 19      111366   i08r01c01s01.sng.lrz.de  19
+[0] MPI startup(): 20      111367   i08r01c01s01.sng.lrz.de  20
+[0] MPI startup(): 21      111368   i08r01c01s01.sng.lrz.de  21
+[0] MPI startup(): 22      111369   i08r01c01s01.sng.lrz.de  22
+[0] MPI startup(): 23      111370   i08r01c01s01.sng.lrz.de  23
+[0] MPI startup(): 24      111371   i08r01c01s01.sng.lrz.de  24
+[0] MPI startup(): 25      111372   i08r01c01s01.sng.lrz.de  25
+[0] MPI startup(): 26      111373   i08r01c01s01.sng.lrz.de  26
+[0] MPI startup(): 27      111374   i08r01c01s01.sng.lrz.de  27
+[0] MPI startup(): 28      111375   i08r01c01s01.sng.lrz.de  28
+[0] MPI startup(): 29      111376   i08r01c01s01.sng.lrz.de  29
+[0] MPI startup(): 30      111377   i08r01c01s01.sng.lrz.de  30
+[0] MPI startup(): 31      111378   i08r01c01s01.sng.lrz.de  31
+[0] MPI startup(): 32      111379   i08r01c01s01.sng.lrz.de  32
+[0] MPI startup(): 33      111380   i08r01c01s01.sng.lrz.de  33
+[0] MPI startup(): 34      111381   i08r01c01s01.sng.lrz.de  34
+[0] MPI startup(): 35      111382   i08r01c01s01.sng.lrz.de  35
+[0] MPI startup(): 36      111383   i08r01c01s01.sng.lrz.de  36
+[0] MPI startup(): 37      111384   i08r01c01s01.sng.lrz.de  37
+[0] MPI startup(): 38      111385   i08r01c01s01.sng.lrz.de  38
+[0] MPI startup(): 39      111386   i08r01c01s01.sng.lrz.de  39
+[0] MPI startup(): 40      111387   i08r01c01s01.sng.lrz.de  40
+[0] MPI startup(): 41      111388   i08r01c01s01.sng.lrz.de  41
+[0] MPI startup(): 42      111389   i08r01c01s01.sng.lrz.de  42
+[0] MPI startup(): 43      111390   i08r01c01s01.sng.lrz.de  43
+[0] MPI startup(): 44      111391   i08r01c01s01.sng.lrz.de  44
+[0] MPI startup(): 45      111392   i08r01c01s01.sng.lrz.de  45
+[0] MPI startup(): 46      111393   i08r01c01s01.sng.lrz.de  46
+[0] MPI startup(): 47      111394   i08r01c01s01.sng.lrz.de  47
+MPI startup(): I_MPI_PIN_PROCS environment variable is not supported.
+MPI startup(): I_MPI_FALLBACK environment variable is not supported.
+MPI startup(): To check the list of supported variables, use the impi_info utility or refer to https://software.intel.com/en-us/mpi-library/documentation/get-started.
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 21
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 21 maps to package 0 
+OMP: Info #250: KMP_AFFINITY: pid 111368 tid 111368 thread 0 bound to OS proc set 21
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 6
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 6 maps to package 0 
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #250: KMP_AFFINITY: pid 111353 tid 111353 thread 0 bound to OS proc set 6
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 33
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 33 maps to package 1 
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 34
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 42
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 42 maps to package 1 
+OMP: Info #250: KMP_AFFINITY: pid 111389 tid 111389 thread 0 bound to OS proc set 42
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 45
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 45 maps to package 1 
+OMP: Info #250: KMP_AFFINITY: pid 111392 tid 111392 thread 0 bound to OS proc set 45
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 9
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 9 maps to package 0 
+OMP: Info #250: KMP_AFFINITY: pid 111356 tid 111356 thread 0 bound to OS proc set 9
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 29
+OMP: Info #250: KMP_AFFINITY: pid 111380 tid 111380 thread 0 bound to OS proc set 33
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 34 maps to package 1 
+OMP: Info #250: KMP_AFFINITY: pid 111381 tid 111381 thread 0 bound to OS proc set 34
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 36
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 36 maps to package 1 
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 29 maps to package 1 
+OMP: Info #250: KMP_AFFINITY: pid 111376 tid 111376 thread 0 bound to OS proc set 29
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 3
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 3 maps to package 0 
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 23
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 23 maps to package 0 
+OMP: Info #250: KMP_AFFINITY: pid 111370 tid 111370 thread 0 bound to OS proc set 23
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #250: KMP_AFFINITY: pid 111383 tid 111383 thread 0 bound to OS proc set 36
+OMP: Info #250: KMP_AFFINITY: pid 111350 tid 111350 thread 0 bound to OS proc set 3
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 10
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 10 maps to package 0 
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 39
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 7
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 7 maps to package 0 
+OMP: Info #250: KMP_AFFINITY: pid 111354 tid 111354 thread 0 bound to OS proc set 7
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #250: KMP_AFFINITY: pid 111357 tid 111357 thread 0 bound to OS proc set 10
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 14
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 24
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 24 maps to package 1 
+OMP: Info #250: KMP_AFFINITY: pid 111371 tid 111371 thread 0 bound to OS proc set 24
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 31
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 31 maps to package 1 
+OMP: Info #250: KMP_AFFINITY: pid 111378 tid 111378 thread 0 bound to OS proc set 31
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 39 maps to package 1 
+OMP: Info #250: KMP_AFFINITY: pid 111386 tid 111386 thread 0 bound to OS proc set 39
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 43
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 43 maps to package 1 
+OMP: Info #250: KMP_AFFINITY: pid 111390 tid 111390 thread 0 bound to OS proc set 43
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 2
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 2 maps to package 0 
+OMP: Info #250: KMP_AFFINITY: pid 111349 tid 111349 thread 0 bound to OS proc set 2
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 4
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 4 maps to package 0 
+OMP: Info #250: KMP_AFFINITY: pid 111351 tid 111351 thread 0 bound to OS proc set 4
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 8
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 8 maps to package 0 
+OMP: Info #250: KMP_AFFINITY: pid 111355 tid 111355 thread 0 bound to OS proc set 8
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 12
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 12 maps to package 0 
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 13
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 13 maps to package 0 
+OMP: Info #250: KMP_AFFINITY: pid 111360 tid 111360 thread 0 bound to OS proc set 13
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 14 maps to package 0 
+OMP: Info #250: KMP_AFFINITY: pid 111361 tid 111361 thread 0 bound to OS proc set 14
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 27
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 27 maps to package 1 
+OMP: Info #250: KMP_AFFINITY: pid 111374 tid 111374 thread 0 bound to OS proc set 27
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 38
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 38 maps to package 1 
+OMP: Info #250: KMP_AFFINITY: pid 111385 tid 111385 thread 0 bound to OS proc set 38
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 11
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 11 maps to package 0 
+OMP: Info #250: KMP_AFFINITY: pid 111358 tid 111358 thread 0 bound to OS proc set 11
+OMP: Info #250: KMP_AFFINITY: pid 111359 tid 111359 thread 0 bound to OS proc set 12
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 15
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 15 maps to package 0 
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 25
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 25 maps to package 1 
+OMP: Info #250: KMP_AFFINITY: pid 111372 tid 111372 thread 0 bound to OS proc set 25
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 30
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 30 maps to package 1 
+OMP: Info #250: KMP_AFFINITY: pid 111377 tid 111377 thread 0 bound to OS proc set 30
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 40
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 40 maps to package 1 
+OMP: Info #250: KMP_AFFINITY: pid 111387 tid 111387 thread 0 bound to OS proc set 40
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 47
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 47 maps to package 1 
+OMP: Info #250: KMP_AFFINITY: pid 111394 tid 111394 thread 0 bound to OS proc set 47
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 0
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 0 maps to package 0 
+OMP: Info #250: KMP_AFFINITY: pid 111347 tid 111347 thread 0 bound to OS proc set 0
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 1
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 1 maps to package 0 
+OMP: Info #250: KMP_AFFINITY: pid 111362 tid 111362 thread 0 bound to OS proc set 15
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 16
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 16 maps to package 0 
+OMP: Info #250: KMP_AFFINITY: pid 111363 tid 111363 thread 0 bound to OS proc set 16
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 18
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 18 maps to package 0 
+OMP: Info #250: KMP_AFFINITY: pid 111365 tid 111365 thread 0 bound to OS proc set 18
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 19
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 19 maps to package 0 
+OMP: Info #250: KMP_AFFINITY: pid 111366 tid 111366 thread 0 bound to OS proc set 19
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 28
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 28 maps to package 1 
+OMP: Info #250: KMP_AFFINITY: pid 111375 tid 111375 thread 0 bound to OS proc set 28
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 35
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 35 maps to package 1 
+OMP: Info #250: KMP_AFFINITY: pid 111382 tid 111382 thread 0 bound to OS proc set 35
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 37
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 37 maps to package 1 
+OMP: Info #250: KMP_AFFINITY: pid 111384 tid 111384 thread 0 bound to OS proc set 37
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 44
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 44 maps to package 1 
+OMP: Info #250: KMP_AFFINITY: pid 111391 tid 111391 thread 0 bound to OS proc set 44
+OMP: Info #250: KMP_AFFINITY: pid 111348 tid 111348 thread 0 bound to OS proc set 1
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 5
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 5 maps to package 0 
+OMP: Info #250: KMP_AFFINITY: pid 111352 tid 111352 thread 0 bound to OS proc set 5
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 17
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 17 maps to package 0 
+OMP: Info #250: KMP_AFFINITY: pid 111364 tid 111364 thread 0 bound to OS proc set 17
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 20
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 20 maps to package 0 
+OMP: Info #250: KMP_AFFINITY: pid 111367 tid 111367 thread 0 bound to OS proc set 20
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 22
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 22 maps to package 0 
+OMP: Info #250: KMP_AFFINITY: pid 111369 tid 111369 thread 0 bound to OS proc set 22
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 26
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 26 maps to package 1 
+OMP: Info #250: KMP_AFFINITY: pid 111373 tid 111373 thread 0 bound to OS proc set 26
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 32
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 46
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 46 maps to package 1 
+OMP: Info #250: KMP_AFFINITY: pid 111393 tid 111393 thread 0 bound to OS proc set 46
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 32 maps to package 1 
+OMP: Info #250: KMP_AFFINITY: pid 111379 tid 111379 thread 0 bound to OS proc set 32
+OMP: Info #212: KMP_AFFINITY: decoding x2APIC ids.
+OMP: Info #210: KMP_AFFINITY: Affinity capable, using global cpuid leaf 11 info
+OMP: Info #154: KMP_AFFINITY: Initial OS proc set respected: 41
+OMP: Info #156: KMP_AFFINITY: 1 available OS procs
+OMP: Info #157: KMP_AFFINITY: Uniform topology
+OMP: Info #159: KMP_AFFINITY: 1 packages x 1 cores/pkg x 1 threads/core (1 total cores)
+OMP: Info #214: KMP_AFFINITY: OS proc to physical thread map:
+OMP: Info #171: KMP_AFFINITY: OS proc 41 maps to package 1 
+OMP: Info #250: KMP_AFFINITY: pid 111388 tid 111388 thread 0 bound to OS proc set 41
