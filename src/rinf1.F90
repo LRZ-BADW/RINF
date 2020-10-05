@@ -30,7 +30,7 @@ program rinf1
      input%icase=1 
      input%istride=1
      input%realloc=.TRUE.
-     !input%realloc='L'
+     input%mode='L'
      read(rinf1_aux, fmt=*, end=200, err=100) input%icase, input%istride, input%realloc, input%mode
      nc = nc + 1
      !
